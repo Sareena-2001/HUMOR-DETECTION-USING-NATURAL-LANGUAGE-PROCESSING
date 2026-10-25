@@ -1,8 +1,5 @@
 # Humor Detection Using Natural Language Processing
 
-**Author:** Sareena Bilal · [sb743915@gmail.com](mailto:sb743915@gmail.com)
-**Repository:** https://github.com/Sareena-2001/HUMOR-DETECTION-USING-NATURAL-LANGUAGE-PROCESSING
-
 A binary text classification project that decides whether a short English text is **humorous (1)** or **non-humorous (0)**. Texts are cleaned with a standard NLP pipeline, converted to TF-IDF features, and used to train and compare six classical machine learning classifiers.
 
 ---
